@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KrisIGG
+- 👋 Hi, I’m Kris
 - 👀 I’m interested in developing games
 - 🌱 I’m currently learning maths and computer science
 - 💞️ I’m looking to collaborate on games
