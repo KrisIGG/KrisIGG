@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kris
-- 👀 I’m interested in developing games
+- 👀 I’m interested in developing games (Unity or vanilla JS)
 - 🌱 I’m currently learning maths and computer science
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me krischanpowers@gmail.com
