@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kris
-- 📫 How to reach me krischanpowers@gmail.com
+- 📫 How to reach me kristiyan.georgiev256@gmail.com
 
 <!---
 KrisIGG/KrisIGG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
